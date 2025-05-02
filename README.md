@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sufia 
-📍 A recent CSE grad exploring data, machine learning, and GenAI. 
-🧠 I build fun side projects with AI, automation, and frontend tools.  
+📍 A recent CSE grad exploring data, machine learning, and GenAI. </br>
+🧠 I build fun side projects with AI, automation, and frontend tools.  </br>
 🚀 Always learning, always creating.</br>
 📫 Let’s connect!  
 🔗 [Medium](https://medium.com/@sufiaaa07) | [Linkedin](https://www.linkedin.com/in/sufia-47bb39228/)
